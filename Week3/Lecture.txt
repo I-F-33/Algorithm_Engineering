@@ -1,0 +1,10 @@
+Dynamic Employee Sorter: Implementation of few sorting algorithms
+
+1. Insertion Sort
+2. Merge Sort
+3. Quick Sort
+
+Console based application, where our outcome would be, user to enter # of employees
+and those will be stored in temp memory and then user will be asked to chose and aforementioned
+sorting algorithms, and the outcome would be generated
+

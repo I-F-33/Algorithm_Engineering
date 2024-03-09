@@ -1,0 +1,39 @@
+
+DP is a powerful algorithm technique
+- solves optimization problem
+- subproblems (Solutions are saves in the memory)
+
+Key Concepts if DP
+1. Optimization Problems
+2. Overlapping subproblems
+3. Optimal substructure
+
+Why do we need DP:
+1.	Efficiency
+    a.	(Reducing the complexity if algos by avoiding redundant calculations)
+2.	Scalability
+    a.	Solving the subproblems independently
+    b.	With this nature DP can handle large scale instances.
+3.	Versatility
+    a.	DP can solve wide range of optimization problems across various domains.
+
+Real world Examples of DP:
+1.	Fibonacci Calculation:
+    a.	**Discussion Assignment
+    b.	What Are the real-world use cases of the Fibonacci Sequence?
+    c.	Fibonacci Sequence is a series of numbers or occurrence where each number is the sum of two preceding ones, typically starting with 0 and 1
+    d.	0, 1, 1, 2, 3, 5, 8, 13, 21 and so on.
+2.	Shortest Path Algorithm:
+    a.	Aim to find the shortest path between two vertices in a graph, where path length is determined by the edge or sum of edges.
+3.	Dynamic Time Wrapping (DTW)
+    a.	This is unique technique used in speech recognition, pattern recognition, time series analysis.
+
+Dyanimic programming roles
+1.	Memoization
+    a.	Optimizes recursive behavior by adding caching results, avoiding redundant calculation, thus reducing time complexity.
+2.	Tabulation
+    a.	Fills a table with solutions to subproblems, enabling efficient computation and use of resources at the memory and time complexity level.
+
+
+
+

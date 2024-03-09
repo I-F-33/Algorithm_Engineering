@@ -18,9 +18,9 @@ def bubble_sort(L):
                 L[j], L[j+1] = L[j+1], L[j]
     return L
 
+
 #Input
 L = [1,5,3,8,4,6,3,9]
-
 print(bubble_sort((L)))
 
 
